@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Lie ライ Lie ライ",
+  "base_artist": "MYERA",
+  "createdAt": "2026-02-09T14:08:58.705775Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Down to My Last Lie",
+      "artist": "Joshua Hedley",
+      "has_synced": false,
+      "path": "select/01_Down_to_My_Last_Lie_Joshua_Hedley.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Drink, Swear, Steal & Lie",
+      "artist": "Michael Peterson",
+      "has_synced": true,
+      "path": "select/02_Drink,_Swear,_Steal_&_Lie_Michael_Peterson.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Drink, Swear, Steal & Lie (Album Version)",
+      "artist": "MICHAEL PETERSON",
+      "has_synced": true,
+      "path": "select/03_Drink,_Swear,_Steal_&_Lie_(Album_Version)_MICHAEL_PETERSON.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Girls Lie Too - Greatest Hits Version",
+      "artist": "Terri Clark",
+      "has_synced": true,
+      "path": "select/04_Girls_Lie_Too_-_Greatest_Hits_Version_Terri_Clark.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Let Her Lie",
+      "artist": "Daryle Singletary",
+      "has_synced": false,
+      "path": "select/05_I_Let_Her_Lie_Daryle_Singletary.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I Let Her Lie (Album Version)",
+      "artist": "Daryle Singletary",
+      "has_synced": true,
+      "path": "select/06_I_Let_Her_Lie_(Album_Version)_Daryle_Singletary.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Heart Won't Lie",
+      "artist": "Reba McEntire",
+      "has_synced": true,
+      "path": "select/07_The_Heart_Won't_Lie_Reba_McEntire.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Heart Won't Lie (Album Version)",
+      "artist": "Reba McEntire",
+      "has_synced": true,
+      "path": "select/08_The_Heart_Won't_Lie_(Album_Version)_Reba_McEntire.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Trucks Don't Lie",
+      "artist": "Tyler Rich",
+      "has_synced": true,
+      "path": "select/09_Trucks_Don't_Lie_Tyler_Rich.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "You Lie (Single Version)",
+      "artist": "Reba McEntire",
+      "has_synced": false,
+      "path": "select/10_You_Lie_(Single_Version)_Reba_McEntire.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "You Lie (Single Version)",
+      "artist": "Reba McEntire",
+      "has_synced": false,
+      "path": "select/11_You_Lie_(Single_Version)_Reba_McEntire.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Lie To Me",
+      "artist": "Daniel Powter",
+      "has_synced": true,
+      "path": "select/12_Lie_To_Me_Daniel_Powter.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Love The Way You Lie",
+      "artist": "Eminem feat. Rihanna",
+      "has_synced": true,
+      "path": "select/13_Love_The_Way_You_Lie_Eminem_feat._Rihanna.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Love The Way You Lie",
+      "artist": "Eminem & Rihanna",
+      "has_synced": true,
+      "path": "select/14_Love_The_Way_You_Lie_Eminem_&_Rihanna.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Heaven's a Lie",
+      "artist": "Lacuna Coil",
+      "has_synced": true,
+      "path": "select/15_Heaven's_a_Lie_Lacuna_Coil.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Lie ライ Lie ライ",
+      "artist": "MYERA",
+      "has_synced": false,
+      "path": "select/pl_01_Lie_ライ_Lie_ライ_MYERA.txt"
+    }
+  ]
+}
